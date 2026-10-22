@@ -5,7 +5,7 @@ I'm a Computer Science student at the University of Freiburg with a passion for 
 ## About Me
 - 🎓 B.Sc. Computer Science (Informatik) @ Albert-Ludwigs-Universität Freiburg
 - 🕹️ I enjoy building interactive multiplayer experiences and exploring algorithms.
-- 💻 Currently working on: Various game development projects on Roblox.
+- 💻 Currently working on various game development projects on Roblox.
 
 
 ## Highlighted Projects
